@@ -3,7 +3,7 @@ import { IoIosMenu, IoMdClose } from "react-icons/io";
 
 export default function Header() {
   return (
-    <div className="bg-red-700">
+    <div className="bg-slate-700">
       <div className="max-w-[1240px] py-[15px] items-center flex justify-between mx-auto">
         <div className="text-3xl font-bold">WsCube Tech</div>
         <IoIosMenu className="text-white text-3xl md:hidden block" />
